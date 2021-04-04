@@ -1,0 +1,38 @@
+h1{
+    color: white;
+    text-shadow: black 5px 5px 3px;
+}
+button{
+    background: #EC6F66;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F3A183, #EC6F66);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F3A183, #EC6F66); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+width: 80px;
+height: 52px;
+margin: 0.5em;
+}
+
+.main{
+    border: white solid 2px;
+    background: #FF512F;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #DD2476, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #DD2476, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    
+width: 400px;
+height: 20em;
+}
+
+#result{
+    width: 392px;
+    height: 2em;
+
+
+    background: #E55D87;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5FC3E4, #E55D87); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+body{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/images4/Cool-Desktop-Backgrounds-Wallpapers-4.jpg");
+}
